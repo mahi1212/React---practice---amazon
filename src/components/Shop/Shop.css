@@ -1,0 +1,9 @@
+.shop{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 1rem;
+}
+.product-part{
+    border-right: 1px solid #777;
+    padding: 0 2rem;
+}
